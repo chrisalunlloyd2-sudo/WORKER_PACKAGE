@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-13 13:01 ($hash)
 - **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-13 12:27 ($hash)
 - **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-13 11:43 ($hash)
 - **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-13 11:04 ($hash)
@@ -39,7 +40,6 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-12 10:04 ($hash)
 - **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-12 06:45 ($hash)
 - **[Changed]** [Moe autonomous] WORKER_PACKAGE 2026-08-12 04:40 ($hash)
-- **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
